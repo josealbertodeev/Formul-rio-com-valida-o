@@ -82,6 +82,10 @@ span {
     transition: 0.3s ease-in-out;
 }
 
+.input-texto{
+    resize: none;
+}
+
 .input-box .input-texto {
     border: 1px solid #000000;
     padding: 9px 162px 9px 9px;
