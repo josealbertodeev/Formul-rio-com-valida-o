@@ -14,6 +14,10 @@
   de "campo obrigatório" deve aparecer embaixo
   do campo que não foi preenchido.
 
+  ## Gif do Projeto
+  ![animação 1](https://github.com/user-attachments/assets/7a58409b-a2ca-4c1d-92b9-c572082a7430)
+
+
   #Figma do Projeto: [link](https://www.figma.com/file/zBKnYG9UNdUiIr8ClQTWSG/?node-id=3%3A2)
 
   ## 🚀 Demonstração
